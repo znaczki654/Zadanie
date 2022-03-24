@@ -1,1 +1,6 @@
-testujemy coś
+{"fact":"The most traveled cat is Hamlet, who escaped from his carrier while on a flight. He hid for seven weeks behind a panel on the airplane. By the time he was discovered, he had traveled nearly 373,000 miles (600,000 km).","length":217}
+{"fact":"A cat's normal temperature varies around 101 degrees Fahrenheit.","length":64}
+{"fact":"The oldest cat on record was Cr\u00e8me Puff from Austin, Texas, who lived from 1967 to August 6, 2005, three days after her 38th birthday. A cat typically can live up to 20 years, which is equivalent to about 96 human years.","length":220}
+{"fact":"All cats have three sets of long hairs that are sensitive to pressure - whiskers, eyebrows,and the hairs between their paw pads.","length":128}
+{"fact":"The cat's front paw has 5 toes, but the back paws have 4. Some cats are born with as many as 7 front toes and extra back toes (polydactl).","length":138}
+{"fact":"Blue-eyed, pure white cats are frequently deaf.","length":47}
