@@ -12,3 +12,4 @@
 {"fact":"The female cat reaches sexual maturity within 6 to 10 months; most veterinarians suggest spaying the female at 5 months, before her first heat period. The male cat usually reaches sexual maturity between 9 and 12 months.","length":220}
 {"fact":"A female cat can be referred to as a molly or a queen, and a male cat is often labeled as a tom.","length":96}
 {"fact":"The Ancient Egyptian word for cat was mau, which means \"to see\".","length":64}
+{"fact":"Cats prefer to remain non-confrontational. They will not fight to show dominance, but rather to stake their territory. Cats will actually go to extremes to avoid one another in order to prevent a possible confrontation.","length":219}
