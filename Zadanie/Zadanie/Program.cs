@@ -4,11 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Net.Http;
+using System.IO;
 
 namespace Zadanie {
     internal class Program {
         static void Main(string[] args) {
-            APIConnect();
+            //APIConnect();
+            FileCreationAndReading();
+
+            Console.ReadLine();
         }
 
 
@@ -23,9 +27,25 @@ namespace Zadanie {
                     var messageTask = result.Content.ReadAsStringAsync();
                     messageTask.Wait();
                     Console.WriteLine("Message from WebAPI: " + messageTask.Result);
-                    Console.ReadLine();
+                }
+            }
+        }
+
+        static void FileCreationAndReading() {
+            string filePath = @"test.txt"; // literal string
+
+            string test = "testujemy coś";
+
+            using (StreamWriter sw = (File.Exists(filePath)) ? File.AppendText(filePath) : File.CreateText(filePath)) {
+                sw.WriteLine(test);
+            }
+            if (File.Exists(filePath)) {
+                List<string> lines = File.ReadAllLines(filePath).ToList();
+                foreach (string line in lines) {
+                    Console.WriteLine(line);
                 }
             }
         }
     }
+
 }
