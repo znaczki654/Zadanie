@@ -4,3 +4,11 @@
 {"fact":"All cats have three sets of long hairs that are sensitive to pressure - whiskers, eyebrows,and the hairs between their paw pads.","length":128}
 {"fact":"The cat's front paw has 5 toes, but the back paws have 4. Some cats are born with as many as 7 front toes and extra back toes (polydactl).","length":138}
 {"fact":"Blue-eyed, pure white cats are frequently deaf.","length":47}
+{"fact":"The chlorine in fresh tap water irritates sensitive parts of the cat's nose. Let tap water sit for 24 hours before giving it to a cat.","length":134}
+{"fact":"Cats have 30 vertebrae (humans have 33 vertebrae during early development; 26 after the sacral and coccygeal regions fuse)","length":122}
+{"fact":"A cat's hearing is much more sensitive than humans and dogs.","length":60}
+{"fact":"Cats can be right-pawed or left-pawed.","length":38}
+{"fact":"The term \u201cpuss\u201d is the root of the principal word for \u201ccat\u201d in the Romanian term pisica and the root of secondary words in Lithuanian (puz) and Low German\u00a0puus. Some scholars suggest that \u201cpuss\u201d could be imitative of the hissing sound used to get a cat\u2019s attention. As a slang word for the female pudenda, it could be associated with the connotation of a cat being soft, warm, and fuzzy.","length":387}
+{"fact":"The female cat reaches sexual maturity within 6 to 10 months; most veterinarians suggest spaying the female at 5 months, before her first heat period. The male cat usually reaches sexual maturity between 9 and 12 months.","length":220}
+{"fact":"A female cat can be referred to as a molly or a queen, and a male cat is often labeled as a tom.","length":96}
+{"fact":"The Ancient Egyptian word for cat was mau, which means \"to see\".","length":64}

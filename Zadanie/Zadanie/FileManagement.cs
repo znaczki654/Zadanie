@@ -6,7 +6,7 @@ using System.Linq;
 namespace Zadanie {
     public class FileManagement {
         public static void FileCreationAndReading(string ApiResponse) {
-            string filePath = @"test.txt"; // literal string
+            string filePath = @"test.txt";
 
 
             string test = "testujemy coś";
