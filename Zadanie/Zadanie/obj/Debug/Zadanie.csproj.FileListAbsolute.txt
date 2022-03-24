@@ -1,0 +1,8 @@
+C:\Users\Xe\Documents\GitHub\Zadanie\Zadanie\Zadanie\bin\Debug\Zadanie.exe.config
+C:\Users\Xe\Documents\GitHub\Zadanie\Zadanie\Zadanie\bin\Debug\Zadanie.exe
+C:\Users\Xe\Documents\GitHub\Zadanie\Zadanie\Zadanie\bin\Debug\Zadanie.pdb
+C:\Users\Xe\Documents\GitHub\Zadanie\Zadanie\Zadanie\obj\Debug\Zadanie.csproj.AssemblyReference.cache
+C:\Users\Xe\Documents\GitHub\Zadanie\Zadanie\Zadanie\obj\Debug\Zadanie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xe\Documents\GitHub\Zadanie\Zadanie\Zadanie\obj\Debug\Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\Xe\Documents\GitHub\Zadanie\Zadanie\Zadanie\obj\Debug\Zadanie.exe
+C:\Users\Xe\Documents\GitHub\Zadanie\Zadanie\Zadanie\obj\Debug\Zadanie.pdb
